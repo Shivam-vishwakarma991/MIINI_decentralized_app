@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MIINI_decentralized_app/static/css/main.340adf6f.chunk.css",
+    "main.js": "/MIINI_decentralized_app/static/js/main.b3dc24e6.chunk.js",
+    "main.js.map": "/MIINI_decentralized_app/static/js/main.b3dc24e6.chunk.js.map",
+    "runtime-main.js": "/MIINI_decentralized_app/static/js/runtime-main.a69aff69.js",
+    "runtime-main.js.map": "/MIINI_decentralized_app/static/js/runtime-main.a69aff69.js.map",
+    "static/js/2.491cc2cc.chunk.js": "/MIINI_decentralized_app/static/js/2.491cc2cc.chunk.js",
+    "static/js/2.491cc2cc.chunk.js.map": "/MIINI_decentralized_app/static/js/2.491cc2cc.chunk.js.map",
+    "static/js/3.e1424454.chunk.js": "/MIINI_decentralized_app/static/js/3.e1424454.chunk.js",
+    "static/js/3.e1424454.chunk.js.map": "/MIINI_decentralized_app/static/js/3.e1424454.chunk.js.map",
+    "index.html": "/MIINI_decentralized_app/index.html",
+    "static/css/main.340adf6f.chunk.css.map": "/MIINI_decentralized_app/static/css/main.340adf6f.chunk.css.map",
+    "static/js/2.491cc2cc.chunk.js.LICENSE.txt": "/MIINI_decentralized_app/static/js/2.491cc2cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a69aff69.js",
+    "static/js/2.491cc2cc.chunk.js",
+    "static/css/main.340adf6f.chunk.css",
+    "static/js/main.b3dc24e6.chunk.js"
+  ]
+}
