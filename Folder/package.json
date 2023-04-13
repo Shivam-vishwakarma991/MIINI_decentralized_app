@@ -5,5 +5,8 @@
     "dotenv": "^16.0.3",
     "react-scripts": "^4.0.3",
     "web3": "^1.8.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
